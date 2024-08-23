@@ -4,36 +4,37 @@ Em 2021 quando doi criado o Manifesto Ágil definiu-se valores e princípios.
 
 Os valores do Manifesto Ágil consistem em:
 
--Indivíduos e interações mais que processos e ferramentas
+✔️Indivíduos e interações mais que processos e ferramentas
 
--Software em funcionamento mais que documentação abrangente
+✔️Software em funcionamento mais que documentação abrangente
 
--Colaboração com o cliente mais que negociação de contratos
+✔️Colaboração com o cliente mais que negociação de contratos
 
--Responder a mudanças mais que seguir um plano
+✔️Responder a mudanças mais que seguir um plano
 
 Agora os princípios é com vocês! Temos 12 princípios da metodologia ágil, cada aluno precisará atualizar o documento com um princípio, cada um de vocês foi designado para um princípio, por isso atenção! Atualize o princípio correto, e no final do princípio coloque um - e seu nome. Exemplo: Agilidade - Jackeline Ribeiro
 
-PRINCÍPIO 1 (MAURICIO CRESPO):
+✔️PRINCÍPIO 1 (MAURICIO CRESPO):
 
-PRINCÍPIO 2 (RENAN MEDEIROS):
+✔️PRINCÍPIO 2 (RENAN MEDEIROS):
 
-PRINCÍPIO 3 (GABRIEL SILVA):
+✔️PRINCÍPIO 3 (GABRIEL SILVA):
 
-PRINCÍPIO 4 (KAYQUE BARROS):
+✔️PRINCÍPIO 4 (KAYQUE BARROS):
 
-PRINCÍPIO 5 (AMANDA TOMAZ):
+✔️PRINCÍPIO 5 (AMANDA TOMAZ):
 
-PRINCÍPIO 6 (CLARA ZACCHI):
+✔️PRINCÍPIO 6 (CLARA ZACCHI):
 
-PRINCÍPIO 7 (MARJORIE SOUSA):
+✔️PRINCÍPIO 7 (MARJORIE SOUSA):
 
-PRINCÍPIO 8 (ANDRÉ LANZA):
+✔️PRINCÍPIO 8 (ANDRÉ LANZA):
 
-PRINCÍPIO 9 (JOÃO OLIVEIRA):
+✔️PRINCÍPIO 9 (JOÃO OLIVEIRA):
 
-PRINCÍPIO 10 (HENRIQUE GOUVEA):
+✔️PRINCÍPIO 10 (HENRIQUE GOUVEA):
 
-PRINCÍPIO 11 (MATHEUS IETKA):
+✔️PRINCÍPIO 11 (MATHEUS IETKA):
 
-PRINCÍPIO 12 (GABRIEL FERNANDES):
+✔️PRINCÍPIO 12 (GABRIEL FERNANDES):
+
