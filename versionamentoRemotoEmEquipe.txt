@@ -17,6 +17,7 @@ Agora os princípios é com vocês! Temos 12 princípios da metodologia ágil, c
 ✔️PRINCÍPIO 1 (MAURICIO CRESPO):
 
 ✔️PRINCÍPIO 2 (RENAN MEDEIROS):
+	Mudança em favor da vantagem competitiva: Mudanças de requisitos são bem-vindas, mesmo em fases tardias do desenvolvimento.
 
 ✔️PRINCÍPIO 3 (GABRIEL SILVA):
 
