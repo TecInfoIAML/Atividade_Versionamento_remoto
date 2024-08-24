@@ -14,7 +14,7 @@ Os valores do Manifesto Ágil consistem em:
 
 Agora os princípios é com vocês! Temos 12 princípios da metodologia ágil, cada aluno precisará atualizar o documento com um princípio, cada um de vocês foi designado para um princípio, por isso atenção! Atualize o princípio correto, e no final do princípio coloque um - e seu nome. Exemplo: Agilidade - Jackeline Ribeiro
 
-✔️PRINCÍPIO 1 (MAURICIO CRESPO):
+✔️PRINCÍPIO 1 (MAURICIO CRESPO): Indivíduos e interações mais que processos e ferramentas.
 
 ✔️PRINCÍPIO 2 (RENAN MEDEIROS):
 
