@@ -26,7 +26,7 @@ Agora os princípios é com vocês! Temos 12 princípios da metodologia ágil, c
 
 ✔️PRINCÍPIO 6 (CLARA ZACCHI):
 
-✔️PRINCÍPIO 7 (MARJORIE SOUSA):O trabalho de uma iteração não pode quebrar o que já está funcionando, ao contrário, deve agregar mais valor ao que já se tinha. Portanto, o importante é entregar ao final de cada iteração o produto funcionando com o que foi priorizado a ser feito. - Marjorie Sousa
+✔️PRINCÍPIO 7 (MARJORIE SOUSA):Medindo progresso:O trabalho de uma iteração não pode quebrar o que já está funcionando, ao contrário, deve agregar mais valor ao que já se tinha. Portanto, o importante é entregar ao final de cada iteração o produto funcionando com o que foi priorizado a ser feito.
 
 ✔️PRINCÍPIO 8 (ANDRÉ LANZA):
 
