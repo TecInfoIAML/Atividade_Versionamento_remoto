@@ -14,27 +14,29 @@ Os valores do Manifesto Ágil consistem em:
 
 Agora os princípios é com vocês! Temos 12 princípios da metodologia ágil, cada aluno precisará atualizar o documento com um princípio, cada um de vocês foi designado para um princípio, por isso atenção! Atualize o princípio correto, e no final do princípio coloque um - e seu nome. Exemplo: Agilidade - Jackeline Ribeiro
 
-✔️PRINCÍPIO 1 (MAURICIO CRESPO):
+✔️PRINCÍPIO 1 (MAURICIO CRESPO): Indivíduos e interações mais que processos e ferramentas.
 
 ✔️PRINCÍPIO 2 (RENAN MEDEIROS):
+	Mudança em favor da vantagem competitiva: Mudanças de requisitos são bem-vindas, mesmo em fases tardias do desenvolvimento.
 
 ✔️PRINCÍPIO 3 (GABRIEL SILVA):
 
-✔️PRINCÍPIO 4 (KAYQUE BARROS):
+✔️PRINCÍPIO 4 (KAYQUE BARROS): O quarto princípio da metodologia ágil é a união. Este princípio afirma que as equipas de trabalho ágeis devem trabalhar em conjunto, diariamente, durante todo o curso do projeto, tanto com as pessoas relacionadas com os negócios como com os desenvolvedores
 
 ✔️PRINCÍPIO 5 (AMANDA TOMAZ):  Construa projetos em torno de indivíduos motivados - Amanda Tomaz
 
 ✔️PRINCÍPIO 6 (CLARA ZACCHI):
 
-✔️PRINCÍPIO 7 (MARJORIE SOUSA):
+✔️PRINCÍPIO 7 (MARJORIE SOUSA):Medindo progresso:O trabalho de uma iteração não pode quebrar o que já está funcionando, ao contrário, deve agregar mais valor ao que já se tinha. Portanto, o importante é entregar ao final de cada iteração o produto funcionando com o que foi priorizado a ser feito.
 
 ✔️PRINCÍPIO 8 (ANDRÉ LANZA):
 
-✔️PRINCÍPIO 9 (JOÃO OLIVEIRA):
+✔️PRINCÍPIO 9 (JOÃO OLIVEIRA):Excelência contínua aumenta a agilidade.
 
 ✔️PRINCÍPIO 10 (HENRIQUE GOUVEA):
 
 ✔️PRINCÍPIO 11 (MATHEUS IETKA):
+O princípio 11 das metodologias ágeis é "Organização". Este princípio afirma que as melhores arquiteturas, requisitos e designs surgem de equipes auto-organizáveis. As equipas ágeis são compostas por profissionais que conseguem organizar-se sozinhos, dividindo tarefas e responsabilidades, sem a interferência de um Gerente. As equipes sabem o que precisa ser feito e têm autonomia para decidir a melhor forma de fazer, trabalhando unida conforme necessário.
 
 ✔️PRINCÍPIO 12 (GABRIEL FERNANDES):
 
