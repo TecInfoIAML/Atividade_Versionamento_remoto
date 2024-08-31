@@ -29,7 +29,9 @@ Agora os princípios é com vocês! Temos 12 princípios da metodologia ágil, c
 
 ✔️PRINCÍPIO 7 (MARJORIE SOUSA):Medindo progresso:O trabalho de uma iteração não pode quebrar o que já está funcionando, ao contrário, deve agregar mais valor ao que já se tinha. Portanto, o importante é entregar ao final de cada iteração o produto funcionando com o que foi priorizado a ser feito.
 
-✔️PRINCÍPIO 8 (ANDRÉ LANZA):
+✔️PRINCÍPIO 8 (ANDRÉ LANZA):  Os processos ágeis promovem desenvolvimento sustentável. Os patrocinadores, desenvolvedores e usuários devem ser capazes de manter um ritmo constante indefinidamente.
+
+
 
 ✔️PRINCÍPIO 9 (JOÃO OLIVEIRA):Excelência contínua aumenta a agilidade.
 
