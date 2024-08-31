@@ -25,7 +25,7 @@ Agora os princípios é com vocês! Temos 12 princípios da metodologia ágil, c
 
 ✔️PRINCÍPIO 5 (AMANDA TOMAZ):  Construa projetos em torno de indivíduos motivados - Amanda Tomaz
 
-✔️PRINCÍPIO 6 (CLARA ZACCHI):
+✔️PRINCÍPIO 6 (CLARA ZACCHI):Comunicação “O método mais eficiente de transmitir informações tanto externas como internas para um time de desenvolvimento é por meio de uma conversa cara a cara.”- Clara Zacchi
 
 ✔️PRINCÍPIO 7 (MARJORIE SOUSA):Medindo progresso:O trabalho de uma iteração não pode quebrar o que já está funcionando, ao contrário, deve agregar mais valor ao que já se tinha. Portanto, o importante é entregar ao final de cada iteração o produto funcionando com o que foi priorizado a ser feito.
 
