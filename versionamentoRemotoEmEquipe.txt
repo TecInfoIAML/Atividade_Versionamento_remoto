@@ -36,6 +36,7 @@ Agora os princípios é com vocês! Temos 12 princípios da metodologia ágil, c
 ✔️PRINCÍPIO 10 (HENRIQUE GOUVEA):
 
 ✔️PRINCÍPIO 11 (MATHEUS IETKA):
+O princípio 11 das metodologias ágeis é "Organização". Este princípio afirma que as melhores arquiteturas, requisitos e designs surgem de equipes auto-organizáveis. As equipas ágeis são compostas por profissionais que conseguem organizar-se sozinhos, dividindo tarefas e responsabilidades, sem a interferência de um Gerente. As equipes sabem o que precisa ser feito e têm autonomia para decidir a melhor forma de fazer, trabalhando unida conforme necessário.
 
 ✔️PRINCÍPIO 12 (GABRIEL FERNANDES):
 
